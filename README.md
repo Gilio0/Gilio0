@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gilio0
-- 👀 I’m interested in game development
+- 👀 I’m interested in Digital ASIC/IC design & verification, AI and ML
 - 🌱 I’m currently learning electronics & electrical communications engineering
-- 💞️ I’m looking to collaborate on game development &web development
+- 💞️ I’m looking to collaborate on Digital ASIC/IC design & verification
 - 📫 How to reach me: email me on amr620191@gmail.com
